@@ -46,7 +46,7 @@ This project focuses on medical image segmentation using a U-Net model enhanced 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <[repository-url](https://github.com/AnningTian/orith_unet_for_MRI_bone_segmentation.git)>
+   git clone <(https://github.com/AnningTian/orith_unet_for_MRI_bone_segmentation.git)>
    ```
 2. Install the required Python packages:
    ```bash
